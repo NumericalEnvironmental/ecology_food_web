@@ -1,0 +1,3 @@
+total_carbon	15521025
+print_step	1
+max_steps	20
